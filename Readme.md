@@ -6,7 +6,7 @@
 
 
 1. [Solicite ao Github](https://education.github.com/discount_requests/new) benefícios que são disponibilizados para professores (*faculty*) e quando o fizer, edite esse arquivo e marque essa questão como solucionada.
-    - [ ] Pedido realizado para minha conta pessoal no Github
+    - [x] Pedido realizado para minha conta pessoal no Github
     - [ ] Pedido processado e autorizado pelo Github
 1. Crie um sudiretório com o nome `disciplinas` e dentro desse crie um arquivo chamado `Readme.md` com o seguinte conteúdo em Markdown.
     ```markdown
@@ -41,5 +41,3 @@
     professor e pelos alunos para definir a forma de desenvolvimento do conteúdo
     programático.
     ```
-
-    ## 
